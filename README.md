@@ -72,6 +72,7 @@ export default App;
  ```
 
  <h1>Joscript features</h1>
+ <p>Here are some of the plugins that the Joscript library offers. Read more details here  <a href="">Joscript</a></p>
  <div>
   <p>1 - Makes it easier to write HTML code inside Javascript</p>
   
