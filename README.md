@@ -71,7 +71,7 @@ function App() {let load = window.onload = () => {
 export default App;
  ```
 
- <h1>JoScript features</h1>
+ <h1>Joscript features</h1>
  <div>
   <p>1 - Makes it easier to write HTML code inside Javascript</p>
   
@@ -129,7 +129,15 @@ export default App;
   ```jsx
   event('add id', 'click', () => { })
   ```
- </div>
+</div>
+<div>
+ <p>7 - Add and recall values from local storage</p>
+
+ ```jsx
+addLocal('add name',  add value) // Add value to local storage
+getLocal('add name') // Get value from local storage
+```
+</div>
  
 <!---
 jo-script/jo-script is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
