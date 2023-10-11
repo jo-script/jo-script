@@ -73,15 +73,32 @@ export default App;
 
  <h1>JoScript features</h1>
  <div>
-  1 - Makes it easier to write HTML code inside Javascript
+  <p>1 - Makes it easier to write HTML code inside Javascript</p>
   
   ```jsx
-  jo('h1', {id:'h1', class:'h1', text:'welcome to joscript'})
+  // Create item
+  jo('h1', {id:'h1', class:'h1', text:'welcome to joscript'}),
+  ```
+ </div>
+
+ <div>
+ <p> 2 - Add style to items</p>
+  
+  ```jsx
+  jo('h1', {text:'welcome to joscript', style:{color:'red'} }), // The item will be given a red color
+  jo('h1', {text:'welcome to joscript'}, {color:'red'}), // Add style in another way
+  ```
+ </div>
+  <div>
+  <p>3 - Add an event to items</p>
+  
+  ```jsx
+    jo('h1', {text:'Welcome to joscript', onclick:() => {} }),
   ```
  </div>
 
   <div>
-  2 - Make it easier to call elements within Javascript
+  <p>4 - Make it easier to call elements within Javascript</p>
   
   ```jsx
   getId('h1'),
@@ -90,10 +107,30 @@ export default App;
 
   querySelector('.h1'), // Here you can call elements like CSS
   querySelectorAll('.h1'), // Here you can call elements like CSS
-
-
   ```
  </div>
+
+ <div>
+  <p>5 - Call the elements in one of the above ways and add a style to them</p>
+  
+  ```jsx
+  getName('h1', {
+    width:'300px',
+    height:'40px',
+    color:'red',
+    background:'white', 
+})
+  ```
+ </div>
+
+ <div>
+  <p>6 - Event: Call the item with the ID and add an event to it</p>
+
+  ```jsx
+  event('add id', 'click', () => { })
+  ```
+ </div>
+ 
 <!---
 jo-script/jo-script is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
