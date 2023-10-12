@@ -40,4 +40,30 @@
   <img  src='https://github.com/Yosef-Eid/joscript/assets/117477110/2abd752c-6128-4b26-9e41-dc11ef3acadc'/>  
 </div>
 
+<h1>Why choose GoScript?</h1>
+
+<ol>
+  <li> 
+   
+   **Specialized Team:** We are proud to have a team of experts specialized in various fields. This ensures that we provide the highest level of quality and professionalism in every     application or website we design.
+</li>
+  <li> 
+   
+   **Innovative Design:** We put creativity at the heart of everything we do. Our designs combine beauty and ease of use, creating an exceptional user experience and enhancing your brand's popularity.
+</li>
+  <li> 
+   
+   **Customized Solutions:** We realize that every customer is unique and has their own requirements. Therefore, we offer customized solutions that fit your unique needs and business goals.
+</li>
+  <li> 
+   
+  **Advanced Technology:** We follow the latest technologies and trends in the world of web design and development, and provide our clients with advanced and effective technological applications and websites.
+</li>
+  <li> 
+   
+  **Commitment to Quality:** At JoScript, we believe in the importance of quality and excellent performance. We set high standards in every project we undertake.
+</li>
+
+</ol>
+
 
