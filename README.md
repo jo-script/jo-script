@@ -40,6 +40,10 @@
   <img  src='https://github.com/Yosef-Eid/joscript/assets/117477110/2abd752c-6128-4b26-9e41-dc11ef3acadc'/>  
 </div>
 
+<h1>Joscript Company </h1>
+<p> where creativity and professionalism in the field of design and development of applications and websites</p>
+<br>
+
 <h1>Why choose GoScript?</h1>
 
 <ol>
