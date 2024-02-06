@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<a href="https://www.facebook.com/profile.php?id=61553287433285&sk=about_contact_and_basic_info&locale=ar_AR">
+<a href="https://www.facebook.com/profile.php?id=61553287433285&locale=ar_AR">
 <img src="https://github.com/Yosef-Eid/Yosef-Eid/assets/117477110/d0ec59c4-60db-4b45-a632-7c9053bdb15d">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
