@@ -37,7 +37,7 @@
 <br>
 
 <div align='center'>
-  <img  src='https://github.com/jo-script/joscript-app/assets/147533644/c0a5683a-1bbd-4044-8a6e-cb43f6880d93'/>  
+  <img  src='https://github.com/jo-script/joscript-app/assets/147533644/d703f351-cc83-4876-ad08-2351670b67db'/>  
 </div>
 
 <h1>Joscript Company </h1>
