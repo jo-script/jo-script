@@ -41,7 +41,7 @@
 </div>
 
 <h1>Joscript Company </h1>
-<p> where creativity and professionalism in the field of design and development of applications and websites</p>
+<p> Where creativity and professionalism in teaching everything related to programming</p>
 <br>
 
 <h1>Why choose GoScript?</h1>
